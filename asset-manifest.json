@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kalaiselvi-ui/React-Redux-AddtoCart.git/static/css/main.3616f210.css",
+    "main.js": "/kalaiselvi-ui/React-Redux-AddtoCart.git/static/js/main.4f7418c0.js",
+    "static/media/logo.png": "/kalaiselvi-ui/React-Redux-AddtoCart.git/static/media/logo.b8eff1c6c3bd4716a106.png",
+    "static/media/cart.gif": "/kalaiselvi-ui/React-Redux-AddtoCart.git/static/media/cart.ce4e9f042bb92d87b30f.gif",
+    "index.html": "/kalaiselvi-ui/React-Redux-AddtoCart.git/index.html",
+    "main.3616f210.css.map": "/kalaiselvi-ui/React-Redux-AddtoCart.git/static/css/main.3616f210.css.map",
+    "main.4f7418c0.js.map": "/kalaiselvi-ui/React-Redux-AddtoCart.git/static/js/main.4f7418c0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3616f210.css",
+    "static/js/main.4f7418c0.js"
+  ]
+}
