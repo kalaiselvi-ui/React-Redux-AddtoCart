@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/React-Redux-AddtoCart/static/css/main.3616f210.css",
-    "main.js": "/React-Redux-AddtoCart/static/js/main.2b727ce0.js",
+    "main.js": "/React-Redux-AddtoCart/static/js/main.f318700f.js",
     "static/media/logo.png": "/React-Redux-AddtoCart/static/media/logo.b8eff1c6c3bd4716a106.png",
     "static/media/cart.gif": "/React-Redux-AddtoCart/static/media/cart.ce4e9f042bb92d87b30f.gif",
     "index.html": "/React-Redux-AddtoCart/index.html",
     "main.3616f210.css.map": "/React-Redux-AddtoCart/static/css/main.3616f210.css.map",
-    "main.2b727ce0.js.map": "/React-Redux-AddtoCart/static/js/main.2b727ce0.js.map"
+    "main.f318700f.js.map": "/React-Redux-AddtoCart/static/js/main.f318700f.js.map"
   },
   "entrypoints": [
     "static/css/main.3616f210.css",
-    "static/js/main.2b727ce0.js"
+    "static/js/main.f318700f.js"
   ]
 }
